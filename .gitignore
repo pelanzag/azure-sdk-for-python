@@ -31,6 +31,8 @@ build/
 *.egg-info/
 .tox_pip_cache*/
 
+!/sdk/datafactory/azure-mgmt-datafactory/*
+
 # Test results
 TestResults/
 ENV_DIR/
