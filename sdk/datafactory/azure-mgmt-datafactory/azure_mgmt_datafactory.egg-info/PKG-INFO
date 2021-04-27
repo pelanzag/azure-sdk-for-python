@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: azure-mgmt-datafactory
-Version: 1.1.0
+Version: 100.1.1
 Summary: Microsoft Azure Data Factory Management Client Library for Python
 Home-page: https://github.com/Azure/azure-sdk-for-python
 Author: Microsoft Corporation
